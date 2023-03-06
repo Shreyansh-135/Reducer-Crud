@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 5px;
+}
+
+.reducer-crud {
+  width: 25%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px;
+  margin: 0% auto;
+  margin-top: 15px;
+}
+
+label {
+  margin: 5px;
+  font-weight: bold;
+}
+
+.input_group {
+  width: 100%;
+  border: 0;
+  border-bottom: 2px solid black;
+  margin: 5px;
+}
+
+.rc {
+  margin: 5px;
+}
+
+.save_button {
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(24, 234, 24);
+  border: 0;
+  border-radius: 10px;
+  padding: 8px 35px;
+  cursor: pointer;
+}
+
+table {
+  text-align: center;
+  width: 100%;
+  margin-top: 15px;
+}
+.edit_btn{
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(234, 178, 24);
+  border: 0;
+  border-radius: 10px;
+  padding: 8px 20px; 
+  cursor: pointer;
+}
+.delete_btn{
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(234, 66, 24);
+  border: 0;
+  border-radius: 10px;
+  padding: 8px 20px; 
+  margin: 5px;
+  cursor: pointer;
+}
+.edit{
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(234, 178, 24);
+  border: 0;
+  border-radius: 10px;
+  padding: 8px 20px; 
+  cursor: pointer;
+}
+.delete{
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(234, 66, 24);
+  border: 0;
+  border-radius: 10px;
+  padding: 8px 20px; 
+  margin: 5px;
+  cursor: pointer;
+}
